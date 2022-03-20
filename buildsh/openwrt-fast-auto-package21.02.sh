@@ -95,7 +95,6 @@ val_office="\
  luci-mod-status \
  luci-mod-system \
  luci-proto-ppp \
- luci-app-frpc \
  luci-app-zerotier \
  luci-ssl \
  luci-theme-bootstrap \
@@ -430,15 +429,15 @@ EOF
 }
 
 #最新开发版
-buildk2pdev
-buildk2dev
-build32dev
-build64dev
+#buildk2pdev
+#buildk2dev
+#build32dev
+#build64dev
 #21.02 稳定版
-buildk2p
+#buildk2p
 buildk2
-build32
-build64
+#build32
+#build64
 
 getinfo
 
