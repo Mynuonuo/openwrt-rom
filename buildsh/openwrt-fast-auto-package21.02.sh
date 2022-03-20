@@ -94,8 +94,9 @@ val_office="\
  luci-mod-network \
  luci-mod-status \
  luci-mod-system \
- luci-proto-ipv6 \
  luci-proto-ppp \
+ luci-app-frpc \
+ luci-app-zerotier \
  luci-ssl \
  luci-theme-bootstrap \
  px5g-wolfssl \
